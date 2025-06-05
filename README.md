@@ -40,7 +40,7 @@ All notebooks are organized inside the [`Notebooks/`](./Notebooks) folder. Each 
 
 **Sumit Pagar**  
 Machine Learning Learner | 2nd Year B.Tech | Future AI Explorer  
-📬 [LinkedIn](https://www.linkedin.com/in/sumitpagar19) | 🌐 [GitHub](https://github.com/sumitpagar19)
+📬 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/sumit-pagar-7317402ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | 🌐 [GitHub](https://github.com/sumitpagar19)
 
 ---
 
