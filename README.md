@@ -1,16 +1,16 @@
 # ML-CampusX-Notes
-# 🧠 ML CampusX Notes - Sumit Pagar
+# ML CampusX Notes - Sumit Pagar
 
 This repository contains my hands-on learning journey from the [CampusX Machine Learning Course](https://www.youtube.com/@CampusX) — an in-depth series taught by our legend mentor.  
 I’m solving real-world problems with code + concepts, and these notes are my clean reference with examples and implementation.
 
 ---
 
-## 📚 Structure
+## Structure
 
 All notebooks are organized inside the [`Notebooks/`](./Notebooks) folder. Each file represents a core concept from ML with code and explanations.
 
-| 📘 Day | 📂 Notebook Name              | 📌 Topic Covered                      |
+| Day | Notebook Name              | Topic Covered                      |
 |-------|-------------------------------|---------------------------------------|
 | 01    | `Data Exploration.ipynb`      | Basic EDA                             |
 | 02    | `EDA.ipynb`                   | Exploratory Data Analysis (Extended)  |
@@ -27,20 +27,11 @@ All notebooks are organized inside the [`Notebooks/`](./Notebooks) folder. Each 
 
 ---
 
-## 🚀 What's Next?
-
-✅ Completing all CampusX ML Lectures  
-✅ Making real ML mini-projects  
-✅ Starting Deep Learning + Computer Vision  
-✅ Organizing all notes & projects with proper GitHub commits  
-
----
-
-## 🧑‍💻 Author
+## Author
 
 **Sumit Pagar**  
-Machine Learning Learner | 2nd Year B.Tech | Future AI Explorer  
-📬 [LinkedIn]([https://linkedin.com/in/sumit-pagar](https://www.linkedin.com/in/sumit-pagar-7317402ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | 🌐 [GitHub](https://github.com/sumitpagar19)
+Machine Learning Learner | 2nd Year B.Tech | AI-ML enthusiast
+[GitHub](https://github.com/sumitpagar19)
 
 ---
 
